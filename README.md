@@ -1,4 +1,4 @@
-# SpamBot
+# Message Bot
 ## This is an .exe file that can help you spam any message into a chatbox.
 ### This current version is restricted so it can only send 1 chosen message every loop, it will be typed out like a human, The settings cant be changed after set (you have to re-run the program to change the settings, it stops after 25 messages, when stopped you can re-run it without closing it and opening it again.
 
@@ -23,7 +23,7 @@ It will give a 10 second timer to allow you to open the chatbox that the bot wil
 ![](steps/5.png)
 
 
-Once all the steps are completed, the program will start spamming the message:
+Once all the steps are completed, the program will start sending the message:
 ![](steps/4.5.png)
 
 
